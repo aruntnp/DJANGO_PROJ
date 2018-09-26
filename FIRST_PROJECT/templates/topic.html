@@ -2,6 +2,10 @@
 
 {% extends 'base.html' %}
 
+{% block header %}
+  {{ boards.name }} - {{ block.super }}
+{% endblock %}
+
 <!-- THIS IS BREADCRUM -->
 {% block where %}
 <li class="breadcrumb-item"><a href="{% url 'home' %}">Boards</a></li>

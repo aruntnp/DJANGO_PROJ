@@ -43,6 +43,7 @@ INSTALLED_APPS = [
 
     #MY_APPS
     'boards',
+    'accounts'
 ]
 
 MIDDLEWARE = [
