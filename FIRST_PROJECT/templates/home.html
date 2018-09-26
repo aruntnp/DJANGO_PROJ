@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+{% extends 'base.html' %}
+
+<!-- THIS IS BREADCRUM TAP -->
+{% block where %}
+<li class="breadcrumb-item active">Boards</li>
+
+{% endblock %}
+
+<!-- THIS IS OUR TABLE CONTAINER -->
+{% block content %}
+<div class="container">
+  <table class="table">
+    <thead class="thead-inverse">
+      <tr>
+        <th>Board</th>
+        <th>Posts</th>
+        <th>Topics</th>
+        <th>Last Post</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for board in boards %}
+      <tr>
+        <td>
+          <a href="{% url 'board_topics' board.pk %}" class="badge badge-primary">{{ board.name }}</a>
+          <small class="text-muted d-block">{{ board.description }}</small>
+        </td>
+        <td class="align-middle">0</td>
+        <td class="align-middle">0</td>
+        <td></td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
+
+{% endblock %}
