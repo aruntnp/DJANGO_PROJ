@@ -1,5 +1,6 @@
 body {
-  background-image: url(/img/Background.jpg);
+  background-image: url(../../img/Background.jpg);
+  background-color: 70C1B3
 }
 
 .logo {
