@@ -1,6 +1,6 @@
 body {
-  background-image: url(../../img/Background.jpg);
-  background-color: 70C1B3
+  /*background-image: url(../../img/Background.jpg);*/
+  background-color: #f2dd6e
 }
 
 .logo {
@@ -14,4 +14,9 @@ body {
 .logo a:hover,
 .logo a:active {
   text-decoration: none;
+}
+
+.dropdown-menu-right {
+    right: 0;
+    left: auto;
 }
