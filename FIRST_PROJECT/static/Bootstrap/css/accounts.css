@@ -1,6 +1,6 @@
 body {
-  background-image: url(../../img/Background.jpg);
-  background-color: 70C1B3
+  /*background-image: url(../../img/Background.jpg);*/
+  background-color: #f2dd6e
 }
 
 .logo {
@@ -16,6 +16,7 @@ body {
   text-decoration: none;
 }
 
+<<<<<<< HEAD
 /*--
 Author: Colorlib
 Author URL: https://colorlib.com
@@ -779,3 +780,9 @@ input.checkbox:checked:after {
     padding: 1em 0 0;
   }
 }
+=======
+.dropdown-menu-right {
+    right: 0;
+    left: auto;
+}
+>>>>>>> c7ac9afab37f807b7155a9efb3c1eae1a4bb7a9c

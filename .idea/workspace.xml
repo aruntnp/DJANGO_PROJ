@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="91d9ce51-0ff3-4cb8-bfe6-531d4e22976b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/FIRST_PROJECT/templates/m_signup.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FIRST_PROJECT/static/Bootstrap/css/accounts.css" beforeDir="false" afterPath="$PROJECT_DIR$/FIRST_PROJECT/static/Bootstrap/css/accounts.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FIRST_PROJECT/static/Bootstrap/js/jquery-3.2.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/FIRST_PROJECT/static/Bootstrap/js/jquery-3.2.1.min.js" afterDir="false" />
-    </list>
+    <list default="true" id="91d9ce51-0ff3-4cb8-bfe6-531d4e22976b" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,7 +12,7 @@
     <session id="512625093">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.31" value="1" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.opened" value="2" />
@@ -73,7 +68,7 @@
         <entry file="file://$PROJECT_DIR$/FIRST_PROJECT/templates/base.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="402">
-              <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
+              <caret line="79" selection-start-line="79" selection-end-line="79" />
             </state>
           </provider>
         </entry>
@@ -90,8 +85,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/FIRST_PROJECT/templates/m_signup.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1122">
-              <caret line="66" column="7" selection-start-line="66" selection-start-column="7" selection-end-line="66" selection-end-column="7" />
+            <state relative-caret-position="238">
+              <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -255,10 +250,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.17410715" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.16294643" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" visible="true" weight="0.17868853" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -341,7 +335,7 @@
     <entry file="file://$PROJECT_DIR$/FIRST_PROJECT/templates/base.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="402">
-          <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
         </state>
       </provider>
     </entry>
@@ -354,8 +348,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/FIRST_PROJECT/templates/m_signup.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1122">
-          <caret line="66" column="7" selection-start-line="66" selection-start-column="7" selection-end-line="66" selection-end-column="7" />
+        <state relative-caret-position="238">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
         </state>
       </provider>
     </entry>
