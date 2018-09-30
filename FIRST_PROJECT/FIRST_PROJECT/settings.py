@@ -25,7 +25,7 @@ SECRET_KEY = '+69h4ort^h7*-i$t$85b2&t=fuxa5b@4=dnp@0g447ua*8c=y*'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
@@ -131,3 +131,4 @@ STATICFILES_DIRS = [
 
 LOGOUT_REDIRECT_URL = 'home'
 LOGIN_REDIRECT_URL = 'home'
+LOGIN_URL = 'login'

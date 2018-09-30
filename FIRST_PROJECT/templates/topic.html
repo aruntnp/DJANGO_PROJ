@@ -16,7 +16,7 @@
 
 {% block content %}
 <div class="mb-4">
-  <a href="{% url 'new_topics' boards.pk %}" class="btn btn-primary">New topic</a>
+  <a href="{% url 'new_topics' boards.pk topic.pk %}" class="btn btn-primary">New topic</a>
 </div>
 
 <div class="container">
@@ -34,7 +34,7 @@
     <tbody>
       {% for topic in boards.topics.all %}
       <tr>
-        <td><a href="#">{{ topic.subject }}</a></td>
+        <td><a href="{% url 'topic_posts' boards.pk topic.pk %}">{{ topic.subject }}</a></td>
         <td>{{ topic.starter.username }}</td>
         <td>0</td>
         <td>0</td>

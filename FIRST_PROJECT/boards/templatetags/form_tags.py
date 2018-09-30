@@ -1,6 +1,6 @@
-from django import templates
+from django import template
 
-register = templates.Library()
+register = template.Library()
 
 @register.filter
 def field_type(bound_field):
