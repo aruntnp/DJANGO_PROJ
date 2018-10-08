@@ -2,35 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91d9ce51-0ff3-4cb8-bfe6-531d4e22976b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/FIRST_PROJECT/static/img/male_pic.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FIRST_PROJECT/static/img/pro_pic.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FIRST_PROJECT/templates/my/m_login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FIRST_PROJECT/templates/my/m_signup.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FIRST_PROJECT/templates/pass_change/password_change.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FIRST_PROJECT/templates/pass_change/password_change_done.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FIRST_PROJECT/templates/pass_reset/password_reset.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FIRST_PROJECT/templates/pass_reset/password_reset_complete.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FIRST_PROJECT/templates/pass_reset/password_reset_confirm.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FIRST_PROJECT/templates/pass_reset/password_reset_done.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FIRST_PROJECT/templates/pass_reset/password_reset_email.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FIRST_PROJECT/templates/pass_reset/password_reset_subject.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FIRST_PROJECT/templates/reply_topic.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FIRST_PROJECT/templates/topic_posts.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FIRST_PROJECT/FIRST_PROJECT/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/FIRST_PROJECT/FIRST_PROJECT/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FIRST_PROJECT/FIRST_PROJECT/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/FIRST_PROJECT/FIRST_PROJECT/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FIRST_PROJECT/boards/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/FIRST_PROJECT/boards/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FIRST_PROJECT/boards/templatetags/form_tags.py" beforeDir="false" afterPath="$PROJECT_DIR$/FIRST_PROJECT/boards/templatetags/form_tags.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FIRST_PROJECT/boards/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/FIRST_PROJECT/boards/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FIRST_PROJECT/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/FIRST_PROJECT/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FIRST_PROJECT/static/Bootstrap/css/accounts.css" beforeDir="false" afterPath="$PROJECT_DIR$/FIRST_PROJECT/static/Bootstrap/css/accounts.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FIRST_PROJECT/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/FIRST_PROJECT/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FIRST_PROJECT/templates/base.html___jb_old___" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FIRST_PROJECT/templates/includes/form.html" beforeDir="false" afterPath="$PROJECT_DIR$/FIRST_PROJECT/templates/includes/form.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FIRST_PROJECT/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/FIRST_PROJECT/templates/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FIRST_PROJECT/templates/m_signup.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FIRST_PROJECT/templates/signup.html" beforeDir="false" afterPath="$PROJECT_DIR$/FIRST_PROJECT/templates/signup.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FIRST_PROJECT/templates/topic.html" beforeDir="false" afterPath="$PROJECT_DIR$/FIRST_PROJECT/templates/topic.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,12 +14,13 @@
     <session id="512625093">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.30" value="1" />
           <entry key="project.open.time.31" value="1" />
           <entry key="project.open.time.33" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -95,8 +68,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FIRST_PROJECT/FIRST_PROJECT/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="281">
-              <caret line="72" column="95" selection-start-line="72" selection-start-column="84" selection-end-line="72" selection-end-column="95" />
+            <state relative-caret-position="1105">
+              <caret line="65" column="95" selection-start-line="65" selection-start-column="84" selection-end-line="65" selection-end-column="95" />
               <folding>
                 <element signature="e#647#679#0" expanded="true" />
               </folding>
@@ -107,8 +80,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FIRST_PROJECT/boards/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="298">
-              <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+            <state relative-caret-position="357">
+              <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
               </folding>
@@ -134,11 +107,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/FIRST_PROJECT/boards/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="383">
-              <caret line="59" column="67" selection-start-line="59" selection-start-column="43" selection-end-line="59" selection-end-column="67" />
+            <state relative-caret-position="485">
+              <caret line="52" column="32" lean-forward="true" selection-start-line="52" selection-start-column="32" selection-end-line="52" selection-end-column="32" />
               <folding>
                 <element signature="e#0#64#0" expanded="true" />
                 <marker date="1538337598179" expanded="true" signature="1395:1396" ph="..." />
@@ -159,7 +132,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FIRST_PROJECT/boards/forms.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-25">
+            <state relative-caret-position="17">
               <caret line="1" column="31" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
               <folding>
                 <element signature="e#0#24#0" expanded="true" />
@@ -177,11 +150,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FIRST_PROJECT/templates/topic_posts.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+              <caret line="15" column="60" selection-start-line="15" selection-start-column="60" selection-end-line="15" selection-end-column="60" />
             </state>
           </provider>
         </entry>
@@ -189,7 +162,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FIRST_PROJECT/templates/login.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
+            <state relative-caret-position="221">
               <caret line="13" column="73" selection-start-line="13" selection-start-column="73" selection-end-line="13" selection-end-column="73" />
             </state>
           </provider>
@@ -271,31 +244,6 @@
               <item name="FIRST_PROJECT" type="462c0819:PsiDirectoryNode" />
               <item name="boards" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="DJANGO_PROJ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DJANGO_PROJ" type="462c0819:PsiDirectoryNode" />
-              <item name="FIRST_PROJECT" type="462c0819:PsiDirectoryNode" />
-              <item name="FIRST_PROJECT" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DJANGO_PROJ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DJANGO_PROJ" type="462c0819:PsiDirectoryNode" />
-              <item name="FIRST_PROJECT" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DJANGO_PROJ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DJANGO_PROJ" type="462c0819:PsiDirectoryNode" />
-              <item name="FIRST_PROJECT" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DJANGO_PROJ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DJANGO_PROJ" type="462c0819:PsiDirectoryNode" />
-              <item name="FIRST_PROJECT" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -344,10 +292,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.26860118" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.2001488" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" visible="true" weight="0.18196721" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -507,10 +454,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FIRST_PROJECT/templates/login.html">
+    <entry file="file://$PROJECT_DIR$/FIRST_PROJECT/static/img/pro_pic.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FIRST_PROJECT/FIRST_PROJECT/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="13" column="73" selection-start-line="13" selection-start-column="73" selection-end-line="13" selection-end-column="73" />
+        <state relative-caret-position="1105">
+          <caret line="65" column="95" selection-start-line="65" selection-start-column="84" selection-end-line="65" selection-end-column="95" />
+          <folding>
+            <element signature="e#647#679#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FIRST_PROJECT/boards/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -528,26 +491,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FIRST_PROJECT/static/img/pro_pic.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FIRST_PROJECT/boards/models.py">
+    <entry file="file://$PROJECT_DIR$/FIRST_PROJECT/templates/reply_topic.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="102">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/FIRST_PROJECT/boards/forms.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-25">
+        <state relative-caret-position="17">
           <caret line="1" column="31" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
           <folding>
             <element signature="e#0#24#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FIRST_PROJECT/templates/topic_posts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="60" selection-start-line="15" selection-start-column="60" selection-end-line="15" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FIRST_PROJECT/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="73" selection-start-line="13" selection-start-column="73" selection-end-line="13" selection-end-column="73" />
         </state>
       </provider>
     </entry>
@@ -560,36 +531,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/FIRST_PROJECT/boards/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="59" column="67" selection-start-line="59" selection-start-column="43" selection-end-line="59" selection-end-column="67" />
+        <state relative-caret-position="485">
+          <caret line="52" column="32" lean-forward="true" selection-start-line="52" selection-start-column="32" selection-end-line="52" selection-end-column="32" />
           <folding>
             <element signature="e#0#64#0" expanded="true" />
             <marker date="1538337598179" expanded="true" signature="1395:1396" ph="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FIRST_PROJECT/templates/reply_topic.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FIRST_PROJECT/FIRST_PROJECT/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="72" column="95" selection-start-line="72" selection-start-column="84" selection-end-line="72" selection-end-column="95" />
-          <folding>
-            <element signature="e#647#679#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FIRST_PROJECT/templates/topic_posts.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
         </state>
       </provider>
     </entry>
